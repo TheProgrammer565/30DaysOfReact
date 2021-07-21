@@ -1,0 +1,19 @@
+What is React?
+    React is a javascript library/framework for building user interfaces. 
+    
+    It is the view layer(i.e user interface) for web applications.
+
+Components in react:
+    A component is a self-contained module that renders some output. 
+
+    Component is the heart of react.
+
+    We can write interface elements like a button or an input field as a React component.
+
+Note:
+    React operates not directly on the browser's Document Object Model (DOM) immediately, but on a virtual DOM. 
+
+    The React Virtual DOM exists entirely in-memory and is a representation of the web browser's DOM. Because of this, when we write a React component, we're not writing directly to the DOM, but we're writing a virtual component that React will turn into the DOM.
+
+
+
